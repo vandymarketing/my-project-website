@@ -3,7 +3,7 @@
 Welcome to our vanilla website! This project is hosted using **GitHub Pages**.
 
 ## 🚀 Live Demo
-You can view the live site here: [https://vandymarketing.github.io/](https://vandymarketing.github.io/my-project-website/).
+You can view the live site here: https://vandymarketing.github.io/my-project-website/
 
 ## 🛠️ Built With
 *   **HTML5** - For the structure of the site.
