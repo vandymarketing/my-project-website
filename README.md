@@ -3,7 +3,7 @@
 Welcome to my personal website! This project is hosted using **GitHub Pages** and serves as a starting point for my web development journey.
 
 ## 🚀 Live Demo
-You can view the live site here: [https://yourusername.github.io](https://yourusername.github.io)
+You can view the live site here: https://vandymarketing.github.io/.
 
 ## 🛠️ Built With
 *   **HTML5** - For the structure of the site.
